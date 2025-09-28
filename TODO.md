@@ -1,5 +1,5 @@
 This is an exploration of `raylib` and `Perlin Noise`.
-I mostly get it so I'm putting this asside (for now).
+I mostly get it so I'm putting this aside (for now).
 
 # Improvements
 
